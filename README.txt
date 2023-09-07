@@ -16,4 +16,4 @@ To test these conditions in your own mod, e.g. underwater, you can use the follo
 
 All of these variables are 1 when the condition is found, 0 otherwise.
 
-DISABLED DEBUG Tracking.ini has been included to enable easy tracking of which conditions are present, provided the help module is installed in ShaderFixes.  Only one of the two Tracking.ini's should be enabled at any given time.
+"DISABLED DEBUG Tracking.ini" has been included to enable easy tracking of which conditions are present, provided the help module is installed in ShaderFixes.  "Tracking.ini" must be loaded for "DEBUG Tracking.ini" to work as well.
